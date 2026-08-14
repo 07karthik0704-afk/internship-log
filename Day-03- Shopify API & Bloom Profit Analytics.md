@@ -11,6 +11,14 @@
   * Orders
   * Other permitted store data
 
+## 🔧 Postman & API Requests
+
+* Learned how **Postman** can be used to interact with Shopify APIs.
+* Used the API access token to authenticate API requests.
+* Learned how to send requests to retrieve Shopify store data.
+* Understood how the API response is returned in **JSON format**.
+* Learned that the JSON response contains the requested Shopify data, which can then be inspected and filtered based on the API/query requirements.
+
 ## 🔎 Shopify Reports & Queries
 
 * Learned a basic introduction to how Shopify reports and data queries work.
