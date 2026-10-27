@@ -313,4 +313,4 @@ Then:
 4. Display the product name and stock.
 5. Run `rails routes` and verify the route.
 
-**Goal:** Build the feature yourself without copying the Day 10 example.
+
